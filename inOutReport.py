@@ -6,9 +6,9 @@ import os
 
 # ======================================= DB CONN & Retrieve =======================================================
 server = '159.69.174.28,14333' 
-database = 'SiPPay'
-username = 'sa'
-password = 'abcd123$' 
+database = 'AddDBName'
+username = 'AddUserName'
+password = 'AddPass' 
 # sqlserver conn
 try:
     conn = pyodbc.connect(
