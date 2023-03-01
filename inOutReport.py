@@ -5,7 +5,7 @@ import numpy as np
 import os 
 
 # ======================================= DB CONN & Retrieve =======================================================
-server = '159.69.174.28,14333' 
+server = 'AddServer' 
 database = 'AddDBName'
 username = 'AddUserName'
 password = 'AddPass' 
